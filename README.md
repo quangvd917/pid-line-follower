@@ -9,7 +9,7 @@ It is a beginner-friendly robotics project that covers motor control, sensor rea
 ## 📺 Demo
 
 🎥 Watch the full tutorial on YouTube:  
-(Insert your video link here)
+https://youtu.be/vP7pFx99Z-I
 
 ---
 
